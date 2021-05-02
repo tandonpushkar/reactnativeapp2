@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "438466012238",
+    "project_id": "defieleven",
+    "storage_bucket": "defieleven.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438466012238:android:60f20c0f4eaf63a918cf1f",
+        "android_client_info": {
+          "package_name": "com.defieleven"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438466012238-4e4qqmfud14ui1ekjqfpche9bjcjib7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.defieleven",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "438466012238-fk8h8p26vo3srfm0rpahcl48cankkont.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhRGGE9TOnGQ6lhXXfGqS2gLRX4UvIqV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438466012238-fk8h8p26vo3srfm0rpahcl48cankkont.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+export const ScreenNames = {
+  LOGIN: 'LOGIN',
+  PROFILE: 'PROFILE',
+  HOME: 'HOME',
+  CONTACTS: 'CONTACTS',
+  NOTIFICATIONS: 'NOTIFICATIONS',
+  'ABOUT': 'ABOUT',
+  'FEATURES': 'FEATURES'
+}
